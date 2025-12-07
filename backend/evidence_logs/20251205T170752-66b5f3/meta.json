@@ -1,0 +1,22 @@
+{
+  "incident_id": "20251205T170752-66b5f3",
+  "timestamp": "2025-12-05T17:07:52.814288Z",
+  "transcript": "Everything is fine.",
+  "risk_score": 68.5,
+  "reasons": [
+    "Route deviation: 350.0m.",
+    "Motion struggle detected.",
+    "Silent trigger activated."
+  ],
+  "audio_classification": {
+    "danger_level": "none",
+    "emotion": "calm",
+    "has_abusive_keywords": false,
+    "reason": "Sentiment=4 stars, abusive=False"
+  },
+  "sensors": {
+    "route_deviation_meters": 350.0,
+    "motion_struggle_score": 0.9,
+    "silent_trigger": true
+  }
+}

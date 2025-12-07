@@ -1,0 +1,18 @@
+{
+  "evidence_id": "20251205T153325",
+  "transcript": "Leave me alone.",
+  "audio_classification": {
+    "danger_level": "high",
+    "emotion": "panic",
+    "has_abusive_keywords": true,
+    "reason": "Sentiment label = 1 star. Abusive / threat-like words detected in the transcript."
+  },
+  "sensors": {
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0,
+    "silent_trigger": false
+  },
+  "risk_score": 80.0,
+  "sos_triggered": true,
+  "saved_at": "2025-12-05T15:33:25.021776Z"
+}

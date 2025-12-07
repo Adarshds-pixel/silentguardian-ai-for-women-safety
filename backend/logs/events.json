@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": "2025-12-05T07:39:56.233098Z",
+    "risk_score": 100.0,
+    "sos_triggered": true,
+    "danger_level": "high",
+    "silent_trigger": true,
+    "route_deviation_meters": 350.0,
+    "motion_struggle_score": 0.9
+  },
+  {
+    "timestamp": "2025-12-05T07:41:53.196650Z",
+    "risk_score": 25.8,
+    "sos_triggered": false,
+    "danger_level": "none",
+    "silent_trigger": true,
+    "route_deviation_meters": 310.0,
+    "motion_struggle_score": 0.1
+  },
+  {
+    "timestamp": "2025-12-05T07:42:18.442733Z",
+    "risk_score": 100.0,
+    "sos_triggered": true,
+    "danger_level": "high",
+    "silent_trigger": true,
+    "route_deviation_meters": 310.0,
+    "motion_struggle_score": 0.1
+  },
+  {
+    "timestamp": "2025-12-05T07:42:46.795491Z",
+    "risk_score": 100.0,
+    "sos_triggered": true,
+    "danger_level": "high",
+    "silent_trigger": true,
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0
+  },
+  {
+    "timestamp": "2025-12-05T07:42:57.960192Z",
+    "risk_score": 80.0,
+    "sos_triggered": true,
+    "danger_level": "high",
+    "silent_trigger": false,
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0
+  },
+  {
+    "timestamp": "2025-12-05T15:20:04.538897Z",
+    "risk_score": 40.5,
+    "sos_triggered": false,
+    "danger_level": "none",
+    "silent_trigger": true,
+    "route_deviation_meters": 500.0,
+    "motion_struggle_score": 0.7
+  },
+  {
+    "timestamp": "2025-12-05T15:32:33.885717Z",
+    "risk_score": 39.0,
+    "sos_triggered": false,
+    "danger_level": "none",
+    "silent_trigger": true,
+    "route_deviation_meters": 350.0,
+    "motion_struggle_score": 0.9
+  },
+  {
+    "timestamp": "2025-12-05T15:32:53.131863Z",
+    "risk_score": 39.0,
+    "sos_triggered": false,
+    "danger_level": "none",
+    "silent_trigger": true,
+    "route_deviation_meters": 350.0,
+    "motion_struggle_score": 0.9
+  },
+  {
+    "timestamp": "2025-12-05T15:33:25.018080Z",
+    "risk_score": 80.0,
+    "sos_triggered": true,
+    "danger_level": "high",
+    "silent_trigger": false,
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0
+  },
+  {
+    "timestamp": "2025-12-05T15:41:03.222878Z",
+    "risk_score": 0.0,
+    "sos_triggered": false,
+    "danger_level": "none",
+    "silent_trigger": false,
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0
+  },
+  {
+    "timestamp": "2025-12-05T15:41:26.202897Z",
+    "risk_score": 80.0,
+    "sos_triggered": true,
+    "danger_level": "high",
+    "silent_trigger": false,
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0
+  },
+  {
+    "timestamp": "2025-12-06T03:55:03.818816Z",
+    "risk_score": 80.0,
+    "sos_triggered": true,
+    "danger_level": "high",
+    "silent_trigger": false,
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0
+  },
+  {
+    "timestamp": "2025-12-06T09:25:51.107694Z",
+    "risk_score": 65.0,
+    "sos_triggered": true,
+    "danger_level": "high",
+    "silent_trigger": false,
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0
+  }
+]

@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+
+# Free speech-to-text model (Whisper)
+faster-whisper
+
+# Transformers (free emotion/keyword classification)
+torch
+transformers
+sentencepiece
+accelerate

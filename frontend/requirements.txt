@@ -1,0 +1,10 @@
+streamlit
+requests
+folium
+streamlit-folium
+geopy
+pandas
+numpy
+pydeck
+jinja2
+branca

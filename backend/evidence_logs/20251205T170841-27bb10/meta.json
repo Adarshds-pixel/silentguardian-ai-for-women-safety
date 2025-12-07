@@ -1,0 +1,22 @@
+{
+  "incident_id": "20251205T170841-27bb10",
+  "timestamp": "2025-12-05T17:08:41.970316Z",
+  "transcript": "Leave me alone.",
+  "risk_score": 100,
+  "reasons": [
+    "Audio danger = high.",
+    "Emotion detected: panic.",
+    "Silent trigger activated."
+  ],
+  "audio_classification": {
+    "danger_level": "high",
+    "emotion": "panic",
+    "has_abusive_keywords": false,
+    "reason": "Sentiment=1 star, abusive=False"
+  },
+  "sensors": {
+    "route_deviation_meters": 0.0,
+    "motion_struggle_score": 0.0,
+    "silent_trigger": true
+  }
+}
