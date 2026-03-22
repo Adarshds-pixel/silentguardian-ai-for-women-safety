@@ -96,6 +96,27 @@ System tracks:
 Route deviation
 Movement irregularities
 Adds contextual risk signals
+
+📸 Demo Screenshots
+🧠 System Dashboard
+<img src="screenshots/Home.png" width="800">
+🟢 Low Risk Scenario
+Input: "Help me please"
+Output: Low Risk (No SOS Triggered)
+<img src="screenshots/low-risk-demo.png" width="800">
+🔴 High Risk Scenario
+Input: "I am in danger"
+Output: High Risk (SOS Recommended 🚨)
+<img src="screenshots/high-risk-demo.png" width="800">
+⚙️ Prediction Interface
+<img src="screenshots/predict.png" width="800">
+📖 How It Works Section
+<img src="screenshots/How-it-works.png" width="800">
+## 🔍 Risk Comparison
+
+<img src="screenshots/low-risk-demo.png" width="48%">
+<img src="screenshots/high-risk-demo.png" width="48%">
+
 📂 Project Structure
 silentguardian-ai/
 │
