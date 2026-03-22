@@ -1,0 +1,18 @@
+{
+  "evidence_id": "20260322T071648",
+  "transcript": "I am in danger.",
+  "audio_classification": {
+    "danger_level": "high",
+    "emotion": "panic",
+    "has_abusive_keywords": false,
+    "reason": "Sentiment label = 1 star. No strong abusive or threat keywords found."
+  },
+  "sensors": {
+    "route_deviation_meters": 150.0,
+    "motion_struggle_score": 0.4,
+    "silent_trigger": false
+  },
+  "risk_score": 75.5,
+  "sos_triggered": true,
+  "saved_at": "2026-03-22T07:16:48.016524Z"
+}
