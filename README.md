@@ -51,22 +51,30 @@ Python
 OpenAI Whisper (Speech Recognition)
 Transformers / NLP Models
 Scikit-learn (optional logic)
+
 ⚡ Backend
 FastAPI
+
 🎨 Frontend
 Streamlit
+
 📊 Data Handling
 NumPy
 Pandas
+
 📸 Demo Results
+
 🟢 Low Risk Scenario
 Input: “Help me please”
 Risk Score: 23.1
 Output: ✅ No SOS Triggered
+
 🔴 High Risk Scenario
 Input: “I am in danger”
 Risk Score: 75.5
 Output: 🚨 SOS Triggered
+
+
 🧪 How It Works
 1. 🎤 Audio Processing
 User uploads audio input
@@ -86,11 +94,13 @@ Risk Score =
 + (Route Deviation)
 + (Motion Struggle)
 + (Silent Trigger)
+  
 4. 🚨 Decision Logic
 IF Risk Score > Threshold:
     Trigger SOS
 ELSE:
     Continue Monitoring
+   
 🗺️ Safe Walk Mode (Simulation)
 User sets:
 Start location
@@ -141,6 +151,7 @@ silentguardian-ai/
 ├── logs/
 ├── evidence/
 └── README.md
+
 🚀 Installation & Setup
 1. Clone Repository
 git clone https://github.com/Adarshds-pixel/silentguardian-ai.git
@@ -149,11 +160,13 @@ cd silentguardian-ai
 cd backend
 pip install -r requirements.txt
 python -m uvicorn backend.app:app --reload
-3. Setup Frontend
+
+4. Setup Frontend
 cd frontend
 pip install -r requirements.txt
-streamlit run streamlit_app.py
-4. Open in Browser
+python -m streamlit run streamlit_app.py
+
+6. Open in Browser
 Frontend → http://localhost:8501
 Backend  → http://127.0.0.1:8000
 📊 Output Example
@@ -161,10 +174,12 @@ Risk Level: HIGH 🚨
 Score: 75.5
 Emotion: Panic
 Decision: SOS Triggered
+
 🔒 Safety & Privacy
 Local processing supported (no mandatory cloud dependency)
 Audio data used only for analysis
 Logs stored securely for evidence tracking
+
 ⚠️ Limitations
 Uses simulated sensor data (not real device sensors)
 Accuracy depends on audio clarity
@@ -175,11 +190,13 @@ NLP model may require fine-tuning for edge cases
 🔊 Real-time microphone streaming
 🧠 Advanced deep learning models (LSTM / Transformers)
 📡 Live alert system (SMS / WhatsApp API)
+
 💡 Use Cases
 Women safety monitoring apps
 Smart wearable integration
 Emergency detection systems
 Public safety analytics
+
 👨‍💻 Author
 
 Adarsh
