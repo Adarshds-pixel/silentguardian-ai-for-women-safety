@@ -17,6 +17,7 @@ It continuously analyzes:
 
 ✅ Continue monitoring
 🚨 Trigger SOS alerts
+
 🧠 Key Features
 🎤 Speech-to-Text (Multilingual) using Whisper
 🤖 NLP-based Threat Detection (emotion + intent analysis)
@@ -26,6 +27,7 @@ It continuously analyzes:
 📊 Sensor Fusion (motion + deviation + distress triggers)
 🧾 Incident Logging & Evidence Storage
 🎨 Interactive UI Dashboard (Streamlit)
+
 🏗️ System Architecture
 User Audio Input
         ↓
@@ -42,6 +44,7 @@ Decision System
 Low Risk    High Risk
    ↓           ↓
 Monitor     🚨 SOS Trigger
+
 ⚙️ Tech Stack
 🧠 AI / ML
 Python
